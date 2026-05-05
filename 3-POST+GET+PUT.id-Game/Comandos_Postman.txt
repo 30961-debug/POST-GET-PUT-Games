@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "titulo": "Geometry Dash",
+  "genero": "Rhythm",
+  "desenvolvedor": "RobTop",
+  "plataforma": "Steam"
+}
